@@ -26,9 +26,14 @@ This project is more of modge-podge of elements to help me learn.
 &nbsp;
   <img alt="End" src="https://github.com/user-attachments/assets/06b67f6e-f4a7-4bad-a2d3-cf771b93d1e6" width="30%">
 </p>
+
+
+
 ------------------------------------------------------------
 🎮 Gameplay
 ------------------------------------------------------------
+
+
 
 <p align="center" width="100%">
 <video src="https://github.com/user-attachments/assets/bd3ad45a-dc6b-48e9-bc0d-3b122b782b0f" width="50%" controls></video>
